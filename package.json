@@ -1,0 +1,11 @@
+{
+  "name": "chatonsockect",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./server/server"
+  },
+  "dependencies": {
+    "express": "~4.16.0"
+  }
+}
